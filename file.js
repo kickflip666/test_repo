@@ -1,5 +1,5 @@
-let a = 15
+let a = 30
 
-let b = 10
-
+let b = 20
+// add something else 
 let c = a + b
